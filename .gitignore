@@ -39,6 +39,7 @@ Thumbs.db
 .properties
 
 .idea/workspace.xml
+.idea/misc.xml
 .gradle/
 /.gradle
 build/
