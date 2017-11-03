@@ -38,7 +38,7 @@ Thumbs.db
 .idea
 .properties
 
-#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
 .gradle/
 /.gradle
 build/
